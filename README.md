@@ -117,7 +117,8 @@ return copyList[index].title
 
 ## Installation
 
-You need to have Xcode to use my project. My App is not available in App Store yet.
+You need to have Xcode to use my project, and iPhone7 simulator is recommmeded. My App is not available in App Store yet.
+Unzip the TVshows.zip, and run TVshows.xcodeproj. Then you are good to go!
 
 ## API Reference
 
