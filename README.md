@@ -1,5 +1,9 @@
 # Next?
 
+## Update
+
+* May 7: a few bugs fixed in NextViewController.swift and SearchViewController.swift.
+
 ## Synopsis
 
 * “Next?” is an IOS mobile app developed with Swift 3.0. 
